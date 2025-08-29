@@ -24,12 +24,12 @@
             {
                 "name": "Shit Happens!",
                 "access_rules": [
-                    "pepple"                    
+                    "faceplantstone"
                 ],
                 "sections": [
                     {
                         "name": "Ending 2",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -45,7 +45,7 @@
                 "sections": [
                     {
                         "name": "Ending 3",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -59,12 +59,12 @@
             {
                 "name": "Public Enemy!",
                 "access_rules": [
-                    "sword"                    
+                    "sword"
                 ],
                 "sections": [
                     {
                         "name": "Ending 4",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -78,12 +78,12 @@
             {
                 "name": "Kingslayer!",
                 "access_rules": [
-                    "sword, king"                    
+                    "sword, king"
                 ],
                 "sections": [
                     {
                         "name": "Ending 5",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -99,7 +99,7 @@
                 "sections": [
                     {
                         "name": "Ending 6",
-                        "item_count": 1                      
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -115,7 +115,7 @@
                 "sections": [
                     {
                         "name": "Ending 7",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -131,7 +131,7 @@
                 "sections": [
                     {
                         "name": "Ending 8",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -145,12 +145,12 @@
             {
                 "name": "Customer is Always Right!",
                 "access_rules": [
-                    "sword, shopkeep"                    
+                    "sword, shopkeep"
                 ],
                 "sections": [
                     {
                         "name": "Ending 9",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -164,12 +164,12 @@
             {
                 "name": "Gold Rush!",
                 "access_rules": [
-                    "shovel"                    
+                    "shovel"
                 ],
                 "sections": [
                     {
                         "name": "Ending 10",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -183,12 +183,12 @@
             {
                 "name": "Feline Company!",
                 "access_rules": [
-                    "mrHugs"                    
+                    "mrHugs"
                 ],
                 "sections": [
                     {
                         "name": "Ending 11",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -202,12 +202,12 @@
             {
                 "name": "Hobbies!",
                 "access_rules": [
-                    "fishingrod"                    
+                    "fishingrod"
                 ],
                 "sections": [
                     {
                         "name": "Ending 12",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -221,12 +221,12 @@
             {
                 "name": "Allergic to Cuteness!",
                 "access_rules": [
-                    "mrHugs"                    
+                    "mrHugs"
                 ],
                 "sections": [
                     {
                         "name": "Ending 13",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -240,12 +240,12 @@
             {
                 "name": "Dracar-ish!",
                 "access_rules": [
-                    "dragon"                    
+                    "dragon"
                 ],
                 "sections": [
                     {
                         "name": "Ending 14",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -261,7 +261,7 @@
                 "sections": [
                     {
                         "name": "Ending 15",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -275,12 +275,12 @@
             {
                 "name": "Monster Hunter!",
                 "access_rules": [
-                    "sword, dragon"                    
+                    "sword, dragon"
                 ],
                 "sections": [
                     {
                         "name": "Ending 16",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -294,12 +294,14 @@
             {
                 "name": "Public Transport Next Time!",
                 "access_rules": [
-                    "cannonS", "cannonC", "cannonD"                    
+                    "cannonS",
+                    "cannonC",
+                    "cannonD"
                 ],
                 "sections": [
                     {
                         "name": "Ending 17",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -313,12 +315,12 @@
             {
                 "name": "King of Hearts!",
                 "access_rules": [
-                    "mrHugs, king"                    
+                    "mrHugs, king"
                 ],
                 "sections": [
                     {
                         "name": "Ending 18",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -332,12 +334,12 @@
             {
                 "name": "Broken Heart!",
                 "access_rules": [
-                    "mrHugs"                    
+                    "mrHugs"
                 ],
                 "sections": [
                     {
                         "name": "Ending 19",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -353,7 +355,7 @@
                 "sections": [
                     {
                         "name": "Ending 20",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -369,7 +371,7 @@
                 "sections": [
                     {
                         "name": "Ending 21",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -383,12 +385,12 @@
             {
                 "name": "Paperweight!",
                 "access_rules": [
-                    "anvil"                    
+                    "anvil"
                 ],
                 "sections": [
                     {
                         "name": "Ending 22",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -402,12 +404,12 @@
             {
                 "name": "True Beauty is Inside!",
                 "access_rules": [
-                    "mimic"                    
+                    "mimic"
                 ],
                 "sections": [
                     {
                         "name": "Ending 23",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -421,12 +423,12 @@
             {
                 "name": "Strawberry!",
                 "access_rules": [
-                    "strawberry"                    
+                    "strawberry"
                 ],
                 "sections": [
                     {
                         "name": "Ending 24",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -440,12 +442,12 @@
             {
                 "name": "Bully!",
                 "access_rules": [
-                    "sword"                    
+                    "sword"
                 ],
                 "sections": [
                     {
                         "name": "Ending 25",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -459,12 +461,12 @@
             {
                 "name": "Greedy Bastard!",
                 "access_rules": [
-                    "$has_atleast_n_weight_with_burger|5"                    
+                    "$has_atleast_n_weight_with_burger|5"
                 ],
                 "sections": [
                     {
                         "name": "Ending 26",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -478,12 +480,12 @@
             {
                 "name": "Airstrike!",
                 "access_rules": [
-                    "$has_nuke, cannonS"                    
+                    "$has_nuke, cannonS"
                 ],
                 "sections": [
                     {
                         "name": "Ending 27",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -497,12 +499,12 @@
             {
                 "name": "Don't Try This at Home!",
                 "access_rules": [
-                    "bombs"                    
+                    "bombs"
                 ],
                 "sections": [
                     {
                         "name": "Ending 28",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -516,12 +518,12 @@
             {
                 "name": "The Man in the Steel Mask!",
                 "access_rules": [
-                    "shield, dragon"                    
+                    "shield, dragon"
                 ],
                 "sections": [
                     {
                         "name": "Ending 29",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -537,7 +539,7 @@
                 "sections": [
                     {
                         "name": "Ending 30",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -551,12 +553,12 @@
             {
                 "name": "Collateral Damage!",
                 "access_rules": [
-                    "sword"                    
+                    "sword"
                 ],
                 "sections": [
                     {
                         "name": "Ending 31",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -570,12 +572,12 @@
             {
                 "name": "You Monster!",
                 "access_rules": [
-                    "sword, boulder"                    
+                    "sword, boulder"
                 ],
                 "sections": [
                     {
                         "name": "Ending 32",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -591,7 +593,7 @@
                 "sections": [
                     {
                         "name": "Ending 33",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -605,12 +607,13 @@
             {
                 "name": "-1st Floor!",
                 "access_rules": [
-                    "button", "callButton"                    
+                    "button",
+                    "callButton"
                 ],
                 "sections": [
                     {
                         "name": "Ending 34",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -624,12 +627,12 @@
             {
                 "name": "Wastewater!",
                 "access_rules": [
-                    "sewer"                    
+                    "sewer"
                 ],
                 "sections": [
                     {
                         "name": "Ending 35",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -643,12 +646,12 @@
             {
                 "name": "Fireproof!",
                 "access_rules": [
-                    "dragon, lavaTrinket"                    
+                    "dragon, lavaTrinket"
                 ],
                 "sections": [
                     {
                         "name": "Ending 36",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -667,7 +670,7 @@
                 "sections": [
                     {
                         "name": "Ending 37",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -681,12 +684,12 @@
             {
                 "name": "Oh Boy, I'm so Hungry!",
                 "access_rules": [
-                    "leverLeft"                    
+                    "leverLeft"
                 ],
                 "sections": [
                     {
                         "name": "Ending 38",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -702,7 +705,7 @@
                 "sections": [
                     {
                         "name": "Ending 39",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -721,7 +724,7 @@
                 "sections": [
                     {
                         "name": "Ending 40",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -740,7 +743,7 @@
                 "sections": [
                     {
                         "name": "Ending 41",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -759,7 +762,7 @@
                 "sections": [
                     {
                         "name": "Ending 42",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -778,7 +781,7 @@
                 "sections": [
                     {
                         "name": "Ending 43",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -792,12 +795,12 @@
             {
                 "name": "Bad Leverage!",
                 "access_rules": [
-                    "leverRight"                    
+                    "leverRight"
                 ],
                 "sections": [
                     {
                         "name": "Ending 44",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -816,7 +819,7 @@
                 "sections": [
                     {
                         "name": "Ending 45",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -832,7 +835,7 @@
                 "sections": [
                     {
                         "name": "Ending 46",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -851,7 +854,7 @@
                 "sections": [
                     {
                         "name": "Ending 47",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -865,12 +868,13 @@
             {
                 "name": "It's My First Day!",
                 "access_rules": [
-                    "$leave_castle_with_items, chicken","[hook]"
+                    "$leave_castle_with_items, chicken",
+                    "[hook]"
                 ],
                 "sections": [
                     {
                         "name": "Ending 48",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -889,7 +893,7 @@
                 "sections": [
                     {
                         "name": "Ending 49",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -908,7 +912,7 @@
                 "sections": [
                     {
                         "name": "Ending 50",
-                        "item_count": 1                      
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -927,7 +931,7 @@
                 "sections": [
                     {
                         "name": "Ending 51",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -946,7 +950,7 @@
                 "sections": [
                     {
                         "name": "Ending 52",
-                        "item_count": 1                      
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -965,7 +969,7 @@
                 "sections": [
                     {
                         "name": "Ending 53",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -984,7 +988,7 @@
                 "sections": [
                     {
                         "name": "Ending 54",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1003,7 +1007,7 @@
                 "sections": [
                     {
                         "name": "Ending 55",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1022,7 +1026,7 @@
                 "sections": [
                     {
                         "name": "Ending 56",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1041,7 +1045,7 @@
                 "sections": [
                     {
                         "name": "Ending 57",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1057,7 +1061,7 @@
                 "sections": [
                     {
                         "name": "Ending 58",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1073,7 +1077,7 @@
                 "sections": [
                     {
                         "name": "Ending 59",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1092,7 +1096,7 @@
                 "sections": [
                     {
                         "name": "Ending 60",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1108,7 +1112,7 @@
                 "sections": [
                     {
                         "name": "Ending 61",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1129,7 +1133,7 @@
                 "sections": [
                     {
                         "name": "Ending 62",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1148,7 +1152,7 @@
                 "sections": [
                     {
                         "name": "Ending 63",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1167,7 +1171,7 @@
                 "sections": [
                     {
                         "name": "Ending 64",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1183,7 +1187,7 @@
                 "sections": [
                     {
                         "name": "Ending 65",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1202,7 +1206,7 @@
                 "sections": [
                     {
                         "name": "Ending 66",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1218,7 +1222,7 @@
                 "sections": [
                     {
                         "name": "Ending 67",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1234,7 +1238,7 @@
                 "sections": [
                     {
                         "name": "Ending 68",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1253,7 +1257,7 @@
                 "sections": [
                     {
                         "name": "Ending 69",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1269,7 +1273,7 @@
                 "sections": [
                     {
                         "name": "Ending 70",
-                        "item_count": 1                      
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1293,7 +1297,7 @@
                 "sections": [
                     {
                         "name": "Ending 71",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1312,7 +1316,7 @@
                 "sections": [
                     {
                         "name": "Ending 72",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1331,7 +1335,7 @@
                 "sections": [
                     {
                         "name": "Ending 73",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1350,7 +1354,7 @@
                 "sections": [
                     {
                         "name": "Ending 74",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1369,7 +1373,7 @@
                 "sections": [
                     {
                         "name": "Ending 75",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1388,7 +1392,7 @@
                 "sections": [
                     {
                         "name": "Ending 76",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1410,7 +1414,7 @@
                 "sections": [
                     {
                         "name": "Ending 77",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1429,7 +1433,7 @@
                 "sections": [
                     {
                         "name": "Ending 78",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1448,7 +1452,7 @@
                 "sections": [
                     {
                         "name": "Ending 79",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1467,7 +1471,7 @@
                 "sections": [
                     {
                         "name": "Ending 80",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1486,7 +1490,7 @@
                 "sections": [
                     {
                         "name": "Ending 81",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1505,7 +1509,7 @@
                 "sections": [
                     {
                         "name": "Ending 82",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1524,7 +1528,7 @@
                 "sections": [
                     {
                         "name": "Ending 83",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1543,7 +1547,7 @@
                 "sections": [
                     {
                         "name": "Ending 84",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1565,7 +1569,7 @@
                 "sections": [
                     {
                         "name": "Ending 85",
-                        "item_count": 1                      
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1584,7 +1588,7 @@
                 "sections": [
                     {
                         "name": "Ending 86",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1605,7 +1609,7 @@
                 "sections": [
                     {
                         "name": "Ending 87",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1624,7 +1628,7 @@
                 "sections": [
                     {
                         "name": "Ending 88",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1644,7 +1648,7 @@
                 "sections": [
                     {
                         "name": "Ending 89",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1663,7 +1667,7 @@
                 "sections": [
                     {
                         "name": "Ending 90",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1682,7 +1686,7 @@
                 "sections": [
                     {
                         "name": "Ending 91",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1701,7 +1705,7 @@
                 "sections": [
                     {
                         "name": "Ending 92",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1720,7 +1724,7 @@
                 "sections": [
                     {
                         "name": "Ending 93",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1739,7 +1743,7 @@
                 "sections": [
                     {
                         "name": "Ending 94",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1755,7 +1759,7 @@
                 "sections": [
                     {
                         "name": "Ending 95",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1771,7 +1775,7 @@
                 "sections": [
                     {
                         "name": "Ending 96",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1787,7 +1791,7 @@
                 "sections": [
                     {
                         "name": "Ending 97",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1808,7 +1812,7 @@
                 "sections": [
                     {
                         "name": "Ending 98",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1827,7 +1831,7 @@
                 "sections": [
                     {
                         "name": "Ending 99",
-                        "item_count": 1                       
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -1843,7 +1847,8 @@
                 "sections": [
                     {
                         "name": "",
-                        "item_count": 1                       
+                        "item_count": 1,
+						"visibility_rules": ["opt_gems_vanilla"]
                     }
                 ],
                 "map_locations": [
@@ -1862,7 +1867,8 @@
                 "sections": [
                     {
                         "name": "",
-                        "item_count": 1                       
+                        "item_count": 1,
+						"visibility_rules": ["opt_gems_vanilla"]
                     }
                 ],
                 "map_locations": [
@@ -1876,12 +1882,14 @@
             {
                 "name": "Water Gem",
                 "access_rules": [
-                    "shovel", "chicken, $leave_castle_with_items"
+                    "shovel",
+                    "chicken, $leave_castle_with_items"
                 ],
                 "sections": [
                     {
                         "name": "",
-                        "item_count": 1                       
+                        "item_count": 1,
+						"visibility_rules": ["opt_gems_vanilla"]
                     }
                 ],
                 "map_locations": [
@@ -1897,7 +1905,8 @@
                 "sections": [
                     {
                         "name": "",
-                        "item_count": 1                       
+                        "item_count": 1,
+						"visibility_rules": ["opt_gems_vanilla"]
                     }
                 ],
                 "map_locations": [
@@ -1905,6 +1914,24 @@
                         "map": "99 Paths",
                         "x": 349,
                         "y": 42
+                    }
+                ]
+            },
+            {
+                "name": "Goal",
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1,
+						"access_rules": ["$goal"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "99 Paths",
+                        "x": 639,
+                        "y": 558,
+						"size": 30
                     }
                 ]
             }

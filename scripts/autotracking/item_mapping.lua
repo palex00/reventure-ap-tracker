@@ -1,6 +1,3 @@
--- use this file to map the AP item ids to your items
--- first value is the code of the target item and the second is the item type (currently only "toggle", "progressive" and "consumable" but feel free to expand for your needs!)
--- here are the SM items as an example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/scripts/autotracking/item_mapping.lua
 ITEM_MAPPING = {
     [900270001] ={"sword", "toggle"},
     [900270002] ={"sword", "toggle"},
@@ -24,8 +21,8 @@ ITEM_MAPPING = {
     [900270020] ={"cannonS", "toggle"},
     [900270021] ={"cannonC", "toggle"},
     [900270022] ={"cannonD", "toggle"},
-    --[900270023] ={"Castle to Dark Castle Cannon", "toggle"},
-    --[900270024] ={"Desert Geyser1", "toggle"},
+    [900270023] ={"cannon_to_DC", "toggle"},
+    [900270024] ={}, -- geyserDesert1 logically irrelevant
     [900270025] ={"geyserDesert", "toggle"},
     [900270026] ={"geyserVolcano", "toggle"},
     [900270027] ={"geyserWater", "toggle"},
@@ -35,7 +32,7 @@ ITEM_MAPPING = {
     [900270031] ={"portalFairy", "toggle"},
     [900270032] ={"vine", "toggle"},
     [900270033] ={"castleFloor", "toggle"},
-    [900270034] ={"pepple", "toggle"},
+    [900270034] ={"faceplantstone", "toggle"},
     [900270035] ={"sewer", "toggle"},
     [900270036] ={"leverLeft", "toggle"},
     [900270037] ={"leverMiddle", "toggle"},
@@ -47,14 +44,13 @@ ITEM_MAPPING = {
     [900270043] ={"progressiveChicken", "progressive"},
     [900270044] ={"elder", "toggle"},
     [900270045] ={"boulder", "toggle"},
-    --[900270046] ={"Closet", "toggle"},
+    [900270046] ={}, -- "Closet"
     [900270047] ={"statue", "toggle"},
-    --[900270048] ={"PC", "toggle"},
-    --[900270049] ={"Dolphins", "toggle"},
-    --[900270050] ={"Mimic Pet", "toggle"},
+    [900270048] ={}, -- "PC"
+    [900270049] ={}, -- "Dolphins"
+    [900270050] ={}, -- "Mimic Pet"
     [900270051] ={"tetraGem", "consumable"},
-    [900270052] ={"tetraGem", "consumable"},
-    [900270053] ={"tetraGem", "consumable"},
-    [900270054] ={"tetraGem", "consumable"}
-    --waiting on codes for fishingBridge and bus
+    [900270052] ={}, -- these are Change X Names
+    [900270053] ={}, -- these are Change X Names
+    [900270054] ={}, -- these are Change X Names
 }

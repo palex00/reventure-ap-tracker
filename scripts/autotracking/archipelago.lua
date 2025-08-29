@@ -1,10 +1,6 @@
--- this is an example/ default implementation for AP autotracking
--- it will use the mappings defined in item_mapping.lua and location_mapping.lua to track items and locations via thier ids
--- it will also load the AP slot data in the global SLOT_DATA, keep track of the current index of on_item messages in CUR_INDEX
--- addition it will keep track of what items are local items and which one are remote using the globals LOCAL_ITEMS and GLOBAL_ITEMS
--- this is useful since remote items will not reset but local items might
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
+ScriptHost:LoadScript("scripts/autotracking/slot_options.lua")
 
 CUR_INDEX = -1
 SLOT_DATA = nil
@@ -12,11 +8,24 @@ LOCAL_ITEMS = {}
 GLOBAL_ITEMS = {}
 
 function onClear(slot_data)
-    if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
         print(string.format("called onClear, slot_data:\n%s", dump_table(slot_data)))
-    end
     SLOT_DATA = slot_data
     CUR_INDEX = -1
+	
+	-- reset settings
+	local reset_codes = {
+		"opt_gems", "opt_jumps", "opt_combat",
+		"opt_sword", "opt_endings_req", "opt_gems_req"
+	}
+	
+	for _, code in ipairs(reset_codes) do
+		local obj = Tracker:FindObjectForCode(code)
+		if obj then
+			obj.Active = false
+			obj.AcquiredCount = 0
+		end
+	end
+	
     -- reset locations
     for _, v in pairs(LOCATION_MAPPING) do
         if v[1] then
@@ -58,12 +67,11 @@ function onClear(slot_data)
             end
         end
     end
+	
     LOCAL_ITEMS = {}
     GLOBAL_ITEMS = {}
-    -- manually run snes interface functions after onClear in case we are already ingame
-    if PopVersion < "0.20.1" or AutoTracker:GetConnectionState("SNES") == 3 then
-        -- add snes interface functions here
-    end
+	get_slot_options(slot_data)
+	
 end
 
 -- called when an item gets collected
@@ -110,27 +118,11 @@ function onItem(index, item_id, item_name, player_number)
     elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
         print(string.format("onItem: could not find object for code %s", v[1]))
     end
-    -- track local items via snes interface
-    if is_local then
-        if LOCAL_ITEMS[v[1]] then
-            LOCAL_ITEMS[v[1]] = LOCAL_ITEMS[v[1]] + 1
-        else
-            LOCAL_ITEMS[v[1]] = 1
-        end
-    else
-        if GLOBAL_ITEMS[v[1]] then
-            GLOBAL_ITEMS[v[1]] = GLOBAL_ITEMS[v[1]] + 1
-        else
-            GLOBAL_ITEMS[v[1]] = 1
-        end
-    end
-    if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-        print(string.format("local items: %s", dump_table(LOCAL_ITEMS)))
-        print(string.format("global items: %s", dump_table(GLOBAL_ITEMS)))
-    end
-    if PopVersion < "0.20.1" or AutoTracker:GetConnectionState("SNES") == 3 then
-        -- add snes interface functions here for local item tracking
-    end
+
+    -- if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
+    --     print(string.format("local items: %s", dump_table(LOCAL_ITEMS)))
+    --     print(string.format("global items: %s", dump_table(GLOBAL_ITEMS)))
+    -- end
 end
 
 -- called when a location gets cleared
