@@ -1,8 +1,3 @@
--- put logic functions here using the Lua API: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#lua-interface
--- don't be afraid to use custom logic functions. it will make many things a lot easier to maintain, for example by adding logging.
--- to see how this function gets called, check: locations/locations.json
--- example:
-
 
 function has_nuke()
     local nuke = Tracker:ProviderCountForCode('nuke')
@@ -267,4 +262,10 @@ function leave_castle_with_items_no_cannon()
     end
     return 0
 end
---
+
+function goal()
+	local gems = Tracker:ProviderCountForCode('tetraGem') >= Tracker:ProviderCountForCode('opt_gems_req')
+	local ends = Tracker:ProviderCountForCode('endings') >= Tracker:ProviderCountForCode('opt_endings_req')
+	
+	return gems and ends
+end

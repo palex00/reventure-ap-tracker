@@ -1,5 +1,23 @@
-﻿
-{
+﻿{
+  "settings_popup": {
+    "type": "dock",
+    "content": {
+      "type": "array",
+      "orientation": "vertical",
+      "h_alignment": "left",
+      "content": [
+        {
+          "type": "group",
+          "header": "Settings",
+          "dock": "Settings",
+          "content": {
+            "type": "layout",
+            "key": "setting_grid"
+          }
+        }
+      ]
+    }
+  },
     "tracker_default": {
         "type": "container",
         "background": "#000000",

@@ -1,0 +1,25 @@
+{
+  "setting_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "itemgrid",
+        "item_margin": "2,2",
+        "h_alignment": "center",
+        "item_size": "50,58",
+        "rows": [
+          [
+            "opt_gems",
+			"opt_jumps",
+			"opt_combat",
+			"opt_sword",
+			"opt_endings_req",
+			"opt_gems_req"
+          ]
+        ]
+      }
+    ]
+  }
+}
